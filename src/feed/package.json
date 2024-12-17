@@ -14,7 +14,7 @@
   "homepage": "https://mqtt.cool",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MQTTCool/MQTT.Cool-example-Hello_IoT_World-client-node"
+    "url": "https://github.com/Lightstreamer/mqtt-hello-iot-world-nodejs-example"
   },
   "bugs": {
     "url": "https://mqtt.cool/forum",
