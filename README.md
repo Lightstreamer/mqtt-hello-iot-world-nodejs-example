@@ -8,7 +8,7 @@ on MQTT.Cool.
 ## Details
 
 The **Hello IoT World Demo** uses the
-*[MQTT.Cool Node.js Client API](lhttps://mqtt.cool/docs/nodejs-client-sdk/api/index.html)*
+*[MQTT.Cool Node.js Client API](https://lightstreamer.com/mqttcool/nodejs-client-sdk/2.0.0/api/index.html)*
 to show how MQTT.Cool can be used to send real-time telemetry data through the
 Web.
 
@@ -44,7 +44,7 @@ whatever MQTT broker you prefer, or may also use one of the available public
 broker (an up-to-date list is maintained at
 https://github.com/mqtt/mqtt.github.io/wiki/public_brokers).
 * Configure an MQTT.Cool instance. Please refer to mqtt.cool web site
-[download page](https://mqtt.cool/download/latest-server) to find the MQTT.Cool
+[download page](https://lightstreamer.com/download) to find the MQTT.Cool
 download package. MQTT.Cool comes with a set of predefined configurations for
 connecting with local MQTT server instances, as well as with the most common
 publicly accessible brokers. If you want to provide a new custom configuration,
@@ -66,7 +66,7 @@ information on how to configure broker connection parameters):
 * Launch the MQTT.Cool server.
 * Download this project.
 * If required, install Node.js
-* From the `src/client` folder, locally install the client application (based on the [MQTT.Cool Node.js Client API](https://mqtt.cool/docs/nodejs-client-sdk/api/index.html)), by using `npm`:
+* From the `src/client` folder, locally install the client application (based on the [MQTT.Cool Node.js Client API](https://lightstreamer.com/mqttcool/nodejs-client-sdk/2.0.0/api/index.html)), by using `npm`:
 
   ```sh
   $ npm install
@@ -126,7 +126,7 @@ real-time metrics.
 
 ## See Also
 
-* [Check out all other demos on MQTT.Cool site](https://mqtt.cool/demos)
+* [Check out all other demos on MQTT.Cool site](https://demos.lightstreamer.com/?p=mqttcool)
 
 ## MQTT.Cool Compatibility Notes
 
